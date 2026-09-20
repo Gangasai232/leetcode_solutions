@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gangasai232/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
