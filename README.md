@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gangasai232/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
