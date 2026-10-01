@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Gangasai232/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gangasai232/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
