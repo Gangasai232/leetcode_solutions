@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gangasai232/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gangasai232/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Gangasai232/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Gangasai232/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gangasai232/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gangasai232/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Divide and Conquer
 |  |
