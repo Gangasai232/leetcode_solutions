@@ -16,7 +16,7 @@ public:
         for(int i = 0 ; i < n ; i++){
             fast = fast->next;
         }
-        if(fast==nullptr) return nullptr;
+        if(fast==nullptr) return head->next;
         while(fast!=nullptr && fast->next != nullptr){
             slow = slow->next;
             fast = fast->next;
