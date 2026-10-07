@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gangasai232/leetcode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Gangasai232/leetcode_solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Gangasai232/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Gangasai232/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gangasai232/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gangasai232/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Gangasai232/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gangasai232/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangasai232/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gangasai232/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
