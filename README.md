@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gangasai232/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0371-sum-of-two-integers](https://github.com/Gangasai232/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangasai232/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gangasai232/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Gangasai232/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
