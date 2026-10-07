@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gangasai232/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Gangasai232/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gangasai232/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gangasai232/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gangasai232/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gangasai232/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Gangasai232/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Gangasai232/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Gangasai232/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangasai232/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gangasai232/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Gangasai232/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gangasai232/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
