@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gangasai232/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gangasai232/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangasai232/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gangasai232/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Gangasai232/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangasai232/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gangasai232/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gangasai232/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangasai232/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gangasai232/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Gangasai232/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangasai232/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gangasai232/leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bracket Sequences
 |  |
